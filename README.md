@@ -1,1 +1,0 @@
-# prakash sentimental analysis
